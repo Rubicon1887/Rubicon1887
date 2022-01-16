@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Atharva
 
 <!--
 **Rubicon1887/Rubicon1887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
