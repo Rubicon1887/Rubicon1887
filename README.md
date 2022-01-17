@@ -1,4 +1,4 @@
-### Hello, I'm Atharva
+### Hello, I'm Atharva, a second semester Computer Science Master's Student at Arizona State University.
 
 <!--
 **Rubicon1887/Rubicon1887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
