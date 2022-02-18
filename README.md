@@ -1,4 +1,5 @@
 ### Hello, I'm Atharva, a Computer Science Master's Student at Arizona State University.
+### Currently pursuing internship opportunities for Sumeer 2022, preferably in Machine Learning, Data Science, or Data Analytics.
 
 <!--
 **Rubicon1887/Rubicon1887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
