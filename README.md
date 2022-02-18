@@ -1,5 +1,5 @@
 ### Hello, I'm Atharva, a Computer Science Master's Student at Arizona State University.
-### I'm currently pursuing internship opportunities for Summer 2022, preferably in Machine Learning, Data Science, or Data Analytics.
+### I'm currently pursuing internship opportunities for Summer 2022 in Machine Learning, Data Science, or Data Analytics.
 
 <!--
 **Rubicon1887/Rubicon1887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
