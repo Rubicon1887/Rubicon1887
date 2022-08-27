@@ -1,5 +1,6 @@
 ### Hello, I'm Atharva, a Computer Science Master's Student at Arizona State University.
 ### I'm currently pursuing Co-Ops and Full-time opportunities for Spring 2023 in Machine Learning, Data Science, or Data Analytics.
+### Python, Tableau, SQL, R, Data Science, Data Analytics, and Machine Learning
 
 <!--
 **Rubicon1887/Rubicon1887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
