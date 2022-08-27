@@ -1,5 +1,5 @@
 ### Hello, I'm Atharva, a Computer Science Master's Student at Arizona State University.
-### I'm currently pursuing Co-Ops and Full-time opportunities for Spring 2023 in Machine Learning, Data Science, or Data Analytics.
+### I'm currently pursuing Co-Ops and Full-time opportunities for Spring 2023 in Data Analytics, Data Science, Software Development, and Software Engineering.
 ### Python, Tableau, SQL, R, Data Science, Data Analytics, and Machine Learning
 
 <!--
